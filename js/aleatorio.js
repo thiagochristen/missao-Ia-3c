@@ -1,7 +1,7 @@
-const nomes = ["Juca", "Giuliana", "Ricardo", "Paloma", "Alfredo", "Josefa"];
+const nomes = ["Arom", "Abraham", "Dridon", "Ramon", "Cbum", "Vava"];
 
 export function aleatorio (lista){
-    const posicao = Math.floor(Math.random()* lista.length);
+    const posicao = Math.floor(Math.random()* lista.lenght);
     return lista[posicao];
 }
 

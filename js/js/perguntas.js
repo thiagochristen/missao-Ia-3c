@@ -45,21 +45,20 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você acha que as pessoas por trás dos filmes merecem mais atenção?",
+        enunciado: "Você acha que os atores de hollywood merecem mais atenção?",
         alternativas: [
             {
                 texto:"Sim",
                 afirmacao: [
-                    "Concordo totalmente com você!!",
-                    "Você possui uma visão muito boa"
+                    "Muito Bacana!!",
                     ],
                     proxima: 4,
             },
             {
                 texto:"Não",
                 afirmacao: [
-                    "então blz brother",
-                    "Vai trabalhar e sai daqui então"
+                    "Se ta certo irmão",
+                 
                     ],
             }
             
@@ -71,8 +70,7 @@ export const perguntas = [
             {
                 texto: "Sim",
                 afirmacao: [
-                    "Que legal eu também",
-                    "Te recomendo assistir o show de truman, é uma comédia com drama"
+                    "Te recomendo assistir branquelas é uma comédia top"
                     ],
                     proxima: 2,
             },
@@ -80,7 +78,6 @@ export const perguntas = [
                 texto: "Não",
                 afirmacao: [
                     "Tudo bem",
-                    "Filha da mãe"
                     ],
                     proxima: 2,
             }           
@@ -88,21 +85,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Você gosta do henry cavil ??",
+        enunciado: "Você gosta do toby maguire ??",
         alternativas: [
             {
                 texto: "Sim",
                 afirmacao: [
                     "Bom gosto",
-                    "Eu também!!"
                     ],
                     proxima: 5,
             },
             {
                 texto: "Não",
                 afirmacao: [
-                    "Mano por que ?",
-                    "Não venha mais aqui."
+                    "Mal gosto ein."
                     ]
             }           
             
@@ -135,7 +130,7 @@ export const perguntas = [
         enunciado: "Qual esporte ele praticava",
         alternativas: [
             {
-                texto: "rugby",
+                texto: " Corrida",
                 afirmacao: [
                     "Boa!",
                     "Acertou!"
@@ -156,10 +151,10 @@ export const perguntas = [
     }, 
     
     {
-        enunciado: "Por que ele sofria bullingy na infancia?",
+        enunciado: "Por que ele usava cabelo lampido no filme 3?",
         alternativas: [
             {
-                texto: "Por ser muito inteligente",
+                texto: "Por estar emo boy querendo um hamerti",
                 afirmacao: [
                     "errou feio errou rude",
                     "ele era, mas não era isso"
@@ -168,7 +163,7 @@ export const perguntas = [
                 proxima: 8,
             },
             {
-                texto: "Por estar acima do peso",
+                texto: "Por estar com um simbionte",
                 afirmacao: [
                     "ACERTOU, as pessoas não deveriam fazer isso",
                     "Mandou bem!"
@@ -185,17 +180,15 @@ export const perguntas = [
     enunciado: "Qual destes filmes ele não fez",
         alternativas: [
             {
-                texto: "Deadpool e Wolwerine",
+                texto: "Homem aranha",
                 afirmacao: [
                     "Ele fez este, foi mal pelo spoiller",
-                    "Uma pequena aparação, perdão pelo spoiller",
                     ],
                 proxima: 9,
             },
             {
-                texto: "Vovozona 4",
+                texto: "Tom e Jerry",
                 afirmacao: [
-                    "Nem tem vovozona 4.... eu saberia",
                     "Seria legal mas não",
                     ],
                 proxima: 9,
@@ -207,7 +200,7 @@ export const perguntas = [
     enunciado: "Qual é o jogo favorito dele?",
         alternativas: [
             {
-                texto: "Warhammer 40000",
+                texto: "Homem aranha Ps2",
                 afirmacao: [
                     "Acertou, essa era alto nivel",
                     "VAAAPOOO acertou",
@@ -215,7 +208,7 @@ export const perguntas = [
                 proxima: 10,
             },
             {
-                texto: "Street fighter",
+                texto: "Mortal Kombat",
                 afirmacao: [
                     "Pior que não é",
                     "errou feio errou rude",
@@ -232,15 +225,13 @@ export const perguntas = [
                 {
                     texto: "Sim",
                     afirmacao: [
-                        "VAPOOO ai sim meu fi!!!",
                         "Obrigado pela participação!!!",
                         ]
                 },
                 {
                     texto: "Não",
                     afirmacao: [
-                        "Se prepare para correr então",
-                        "Vou até a sua casa mudar essa opnião",
+                        "Não gostei de você",
                         ]
                 }          
                 
